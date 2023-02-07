@@ -1,5 +1,5 @@
 import React from "react";
-
+import {Link}from "react-router-dom"
 import '../styles/Menu-Item.css';
 
 function MenuItem({ item }) {
@@ -16,7 +16,7 @@ function MenuItem({ item }) {
 
           <br />
 
-          
+          <Link to={`/menu/${item.id}`} state={{item}}>Go to Item</Link>
         </div>
       </React.Fragment>
     );
