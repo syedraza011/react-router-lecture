@@ -1,3 +1,17 @@
+npm install
+Read the rest of the README.md carefully - it contains the requirements for the project
+Start the build process and your application with: npm run start:dev. If you using Windows, you may need to execute npm run start-server and npm run build-watch separately (in their own terminal tabs).
+If you navigate to the URL you should see some UI already :) [We already have some connection code to get you started]
+Check out the starting seed file in seed.js - you can run it by executing npm run seed
+For the requirements of the project, refer to REQUIREMENTS.md
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +82,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
